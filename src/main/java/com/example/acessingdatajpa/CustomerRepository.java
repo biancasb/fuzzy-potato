@@ -1,4 +1,4 @@
-package acessingdatajpa;
+package com.example.acessingdatajpa;
 
 import org.springframework.data.repository.CrudRepository;
 import java.util.List;
